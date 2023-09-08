@@ -1,4 +1,8 @@
 ### Hi there 👋
+This is a repository where I express my profile 👀
+
+My name is Lee Do Yeon and My major is urban planning🏘️ but I am studying software as a double major.
+
 
 <!--
 **doup2001/doup2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
