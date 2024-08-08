@@ -1,4 +1,7 @@
-[![eedo_Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=doup2001)](https://github.com/doup2001/github-readme-stats)
+
+
+[![eedo_Y's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=doup2001&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/doup2001/github-readme-stats#gh-dark-mode-only)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doup2001&layout=pie)](https://github.com/doup2001/github-readme-stats)
 
