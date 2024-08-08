@@ -3,7 +3,7 @@
 [![eedo_Y's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=doup2001&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/doup2001/github-readme-stats#gh-dark-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doup2001&layout=pie)](https://github.com/doup2001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doup2001&layout=pie&theme=dark#gh-dark-mode-only)](https://github.com/doup2001/github-readme-stats)
 
 <!--
 **doup2001/doup2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
