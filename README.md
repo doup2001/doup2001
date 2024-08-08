@@ -3,14 +3,14 @@
 # 안녕하세요👋
 자바 백엔드 개발자를 희망하는 초급 개발자입니다.
     
-## 🏠 Home 🏠 ##
+## 🏠 Home  ##
 ![eedo_y's GitHub stats](https://github-readme-stats.vercel.app/api?username=doup2001&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doup2001&theme=dark)
 
-## 📚 Studying 📚 ##
+## 📚 Studying  ##
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doup2001)](https://solved.ac/doup2001)
 
-## 🔨 Stack 🔨 ##
+## 🔨 Stack  ##
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>⚫️ FRONTEND</strong></p>
@@ -53,7 +53,7 @@
     <br>
 </div>
 
-## 📞 Contact 📞 ##
+## 📞 Contact  ##
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:doup2001@gachon.ac.kr" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
