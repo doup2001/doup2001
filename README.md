@@ -1,16 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=eedo_y&fontSize=90)
 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-     <a href="mailto:doup2001@naver.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=doup2001@naver.com"/>
-    </a>
-    <a href="https://www.instagram.com/eedo_y">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-</div>
-
+## 🏠 Home 🏠 ##
+<img src="https://github-readme-stats.vercel.app/api?username=doup2001&show_icons=true&theme=gotham">[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doup2001)](https://solved.ac/doup2001)
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -55,38 +46,25 @@
     <br>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doup2001)](https://solved.ac/doup2001/)
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+     <a href="mailto:doup2001@naver.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=doup2001@naver.com"/>
+    </a>
+    <a href="https://www.instagram.com/eedo_y">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-[![eedo-y's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=doup2001&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/doup2001/github-readme-stats)
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doup2001&layout=pie&theme=dark#gh-dark-mode-only)](https://github.com/doup2001/github-readme-stats)
 
-Frontend
 
 
 
 
-Backend
-
-DataBase
-![js]()
-![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-Development Tools
-
-
-
-
-
-
-
-Plan to
-![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-![js](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![js](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
