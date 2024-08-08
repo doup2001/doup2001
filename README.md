@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color="75BDE0"&height=300&section=header&text=eedo_y&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=eedo_y&fontSize=90)
 
 [![eedo_Y's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=doup2001&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/doup2001/github-readme-stats#gh-dark-mode-only)
 
