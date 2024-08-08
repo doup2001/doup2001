@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+
 <div align="left">
 
 # 안녕하세요👋
@@ -61,8 +63,10 @@
     <br>
 </div>
 
-## 📞 Contact  ##
-<div style="display:flex; flex-direction:row;">
+
+<details>
+<summary><strong>About Me</strong></summary>
+<div style="display:flex; flex-direction:row;"align="center">
     <a href="mailto:doup2001@gachon.ac.kr" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
@@ -71,4 +75,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
 </div>
+</summary>
+
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
