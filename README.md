@@ -39,18 +39,18 @@
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
+    <!-- FrameWork -->
+    <p><strong>⚫️ FRAMEWORK</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+        <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    </div>
     <!-- DevelopmentTools -->
     <p><strong>⚫️ DEVELOPMENTTOOLS</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
         <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
-    </div>
-    <!-- FrameWork -->
-    <p><strong>⚫️ FRAMEWORK</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     </div>
     <!-- Others -->
     <p><strong>⚫️ DESIGN</strong></p>
