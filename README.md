@@ -23,42 +23,41 @@
 ## 🔨 Stack  ##
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
-    <p><strong>⚫️ FRONTEND</strong></p>
+    <p><strong>FrontEnd</strong></p>
     <div >
         <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     </div>
     <!-- Backend -->
-    <p><strong>⚫️ BACKEND</strong></p>
+    <p><strong>BackEnd</strong></p>
     <div>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     </div>
-    <!-- Database -->
-    <p><strong>⚫️ DATABASE</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </div>
     <!-- FrameWork -->
-    <p><strong>⚫️ FRAMEWORK</strong></p>
+    <p><strong>Framework</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">    
+    </div>
+    <!-- Database -->
+    <p><strong>DataBase</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
     <!-- DevelopmentTools -->
-    <p><strong>⚫️ TOOLS</strong></p>
+    <p><strong>Tools</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
         <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
     </div>
     <!-- Others -->
-    <p><strong>⚫️ DESIGN</strong></p>
+    <p><strong>Deploy</strong></p>
     <div>
-      <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> 
-      <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> 
-      <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"> 
-      <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"> 
+      <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     </div>
     <br>
 </div>
