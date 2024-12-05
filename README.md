@@ -4,7 +4,7 @@
 
 # 안녕하세요👋
 자바 백엔드 개발자를 희망하는 초급 개발자입니다.
-    
+
 ## 🏠 Home  ##
 
 <a href="https://github.com/doup2001/github-readme-stats">
@@ -16,6 +16,11 @@
 <a href="https://github.com/doup2001/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=doup2001&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
+
+## 🧑🏻‍💻 프로젝트 ##
+
+<h3><a href="https://github.com/ZipTe"> ZipTe </a> &nbsp; <sub> 2024.10 ~ 2024.12 (1인 개발 진행중) </sub></h3>
+
 
 ## 📚 Studying  ##
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doup2001)](https://solved.ac/doup2001)
