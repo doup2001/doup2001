@@ -31,7 +31,7 @@
 ---
 
 ## 🧑🏻‍💻 Project  
-### [ZipTe]([https://github.com/ZipTe](https://github.com/ZipTe/ZipTe_BE.git))  
+### [ZipTe]([https://github.com/ZipTe/ZipTe_BE.git])  
 <sub>2024.10 ~ 2025.1 (1인 프로젝트)</sub>  
 
 ---
