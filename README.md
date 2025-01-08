@@ -38,6 +38,22 @@
 <p>2024.10 ~ 2025.1 (BE, 1인 프로젝트)</p>  
 
 ---
+## 🌱 Education & Experiences
+
+- **Gachon University**  
+  - Urban Planning *(2020.03 ~)*  
+  - Software *(2023.09 ~)*  
+
+- **GDSC Gachon**  
+  - Backend Developer *(2024.09 ~)*  
+
+### 📜 Certifications
+
+- **SQLD (SQL Developer)**  
+- **ADsP (Advanced Data Analytics Semi-Professional)**  
+
+
+---
 
 ## 🔨 Stack  
 
