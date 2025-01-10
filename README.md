@@ -31,9 +31,8 @@
 ---
 
 ## 🧑🏻‍💻 Project  
-### [가마고치 리팩토링](https://github.com/GC-Project-Space/SA_TEAM-4_back.git) <sub>2024.10 ~ 2024.11 (CI/CD)</sub> 
-
-### [ZipTe](https://github.com/ZipTe/ZipTe_BE.git) <sub>2024.10 ~ 2025.1 (BE, 1인 프로젝트)</sub>  
+- ### [가마고치 리팩토링](https://github.com/GC-Project-Space/SA_TEAM-4_back.git) <sub>2024.10 ~ 2024.11 (CI/CD)</sub> 
+- ### [ZipTe](https://github.com/ZipTe/ZipTe_BE.git) <sub>2024.10 ~ 2025.1 (BE, 1인 프로젝트)</sub>  
 
 ---
 ## 🌱 Education & Experiences
