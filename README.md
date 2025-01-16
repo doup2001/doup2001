@@ -41,7 +41,7 @@
   - Urban Planning *(2020.03 ~)*  
   - Software *(2023.09 ~)*  
 
-- **GDSC Gachon**  
+- **GDG on Campus Gachon**  
   - Backend Developer *(2024.09 ~)*  
 
 ### 📜 Certifications
