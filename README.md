@@ -37,7 +37,10 @@
   - Software *(2023.09 ~)*  
 
 - **GDG on Campus Gachon**  
-  - Backend Developer *(2024.09 ~)*  
+  - Backend Developer *(2024.09 ~)*
+
+- **Leets**
+  - Backend Developer *(2025.03 ~)*    
 
 ### 📜 Certifications
 
