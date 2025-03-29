@@ -36,7 +36,7 @@
   - Urban Planning *(2020.03 ~)*  
   - Software *(2023.09 ~)*  
 
-- **GDG on Campus Gachon 2기**  
+- **GDG on Campus Gachon**  
   - Backend Developer *(2024.09 ~)*
 
 - **가천대학교 IT 학술 동아리 Leets 5기**
