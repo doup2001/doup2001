@@ -36,11 +36,11 @@
   - Urban Planning *(2020.03 ~)*  
   - Software *(2023.09 ~)*  
 
-- **GDG on Campus Gachon**  
+- **GDG on Campus Gachon 2기**  
   - Backend Developer *(2024.09 ~)*
 
-- **Leets**
-  - Backend Developer *(2025.03 ~)*    
+- **가천대학교 IT 학술 동아리 Leets 5기**
+  - Backend Developer *(2025.03 ~)*
 
 ### 📜 Certifications
 
