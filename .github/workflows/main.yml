@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule:
+    - cron: "0 18 * * *"  # 매일 18:00 UTC (JST 03:00)
   workflow_dispatch:
 
 jobs:
@@ -11,15 +11,27 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+
+      - name: Commit & Push if Changed
         run: |
           git config user.name doup2001
           git config user.email doup2001@gachon.ac.kr
-          git pull --rebase origin main
-          git add -A .
-          git commit -m "generated"
-          git push
+
+          # 최신 리모트와 병합 (충돌 시 워크플로우 종료)
+          git pull --rebase origin main || exit 1
+
+          # 변경된 파일 스테이징
+          git add -A
+
+          # 변경 사항이 있을 경우에만 커밋 & 푸시
+          if ! git diff --cached --quiet; then
+            git commit -m "generated"
+            git push origin main
+          else
+            echo "No changes to commit. Skipping push."
+          fi
