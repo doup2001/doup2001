@@ -3,30 +3,32 @@
 <div align="left">
 
 # 👋 안녕하세요!  
-자바 백엔드 개발자를 희망하는 초급 개발자입니다.
+스프링 백엔드 개발자를 희망하는 초급 개발자입니다.
 
 ---
-
 
 ## 🏠 Home  
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 🧑🏻‍💻 Project  
-- ### [가마고치 리팩토링](https://github.com/GC-Project-Space/SA_TEAM-4_back.git) <sub>2024.10 ~ 2024.11 (CI/CD)</sub> 
-- ### [이거해줘](https://github.com/GDGoC-Hackathon-2025/DoChange-BE.git) <sub> 2025.01 ~ 2025.01 (BE, 해커톤 출품작) </sub>
-- ### [집터](https://github.com/ZipTe/ZipTe_BE.git) <sub>2024.10 ~ (BE, 1인 프로젝트)</sub>  
+- #### [가마고치 리팩토링](https://github.com/GC-Project-Space/SA_TEAM-4_back.git)
+  > <sub> 가천대학교 시스템 아키텍쳐 텀프로젝트 | 2024.10 ~ 2024.11 (CI/CD) </sub>
+- #### [이거해줘](https://github.com/GDGoC-Hackathon-2025/DoChange-BE.git)
+  > <sub> GDGoC 백야 해커톤 출품작 | 2025.01 ~ 2025.01 (BE) </sub>
+- ### [집터](https://github.com/ZipTe/ZipTe_BE.git) 
+  > <sub> 나만의 부동산 플랫폼 | 2024.10 ~ (BE, 1인 프로젝트) </sub>
 ---
 ## 🌱 Education & Experiences
 
 - **Gachon University**  
-  - Urban Planning *(2020.03 ~)*  
-  - Software *(2023.09 ~)*  
+  >  Urban Planning *(2020.03 ~)*  
+  >  Software *(2023.09 ~)*  
 
 - **GDG on Campus Gachon**  
-  - Backend Developer *(2024.09 ~)*
+  > Backend Developer *(2024.09 ~)*
 
 - **가천대학교 IT 학술 동아리 Leets 5기**
-  - Backend Developer *(2025.03 ~)*
+  >  Backend Developer *(2025.03 ~)*
 
 ### 📜 Certifications
 
