@@ -7,24 +7,15 @@
 
 ---
 
+
 ## 🏠 Home  
-
-<div align="center">
-    <a href="https://github.com/doup2001/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doup2001&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
-    </a>    
-    <a href="https://github.com/doup2001/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=doup2001&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="56%" />
-    </a>
-</div>
-![](./profile-3d-contrib/profile-green-animate.svg)
-
----
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 🧑🏻‍💻 Project  
 - ### [가마고치 리팩토링](https://github.com/GC-Project-Space/SA_TEAM-4_back.git) <sub>2024.10 ~ 2024.11 (CI/CD)</sub> 
 - ### [ZipTe](https://github.com/ZipTe/ZipTe_BE.git) <sub>2024.10 ~ 2025.1 (BE, 1인 프로젝트)</sub>  
 - ### [이거해줘](https://github.com/GDGoC-Hackathon-2025/DoChange-BE.git) <sub> 2025.01 ~ 2025.01 (BE, 해커톤 출품작) </sub>
+
 ---
 ## 🌱 Education & Experiences
 
