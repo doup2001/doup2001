@@ -12,11 +12,11 @@
 
 ## 🧑🏻‍💻 Project  
 - #### [가마고치 리팩토링](https://github.com/GC-Project-Space/SA_TEAM-4_back.git)
-  > <sub> 가천대학교 시스템 아키텍쳐 텀프로젝트 | 2024.10 ~ 2024.11 (CI/CD) </sub>
+  > ###### 가천대학교 시스템 아키텍쳐 텀프로젝트 | 2024.10 ~ 2024.11 (CI/CD)
 - #### [이거해줘](https://github.com/GDGoC-Hackathon-2025/DoChange-BE.git)
-  > <sub> GDGoC 백야 해커톤 출품작 | 2025.01 ~ 2025.01 (BE) </sub>
-- ### [집터](https://github.com/ZipTe/ZipTe_BE.git) 
-  > <sub> 나만의 부동산 플랫폼 | 2024.10 ~ (BE, 1인 프로젝트) </sub>
+  >  ###### GDGoC 백야 해커톤 출품작 | 2025.01 ~ 2025.01 (BE) 
+- #### [집터](https://github.com/ZipTe/ZipTe_BE.git) 
+  > ###### 나만의 부동산 플랫폼 | 2024.10 ~ (BE, 1인 프로젝트)
 ---
 ## 🌱 Education & Experiences
 
