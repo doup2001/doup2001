@@ -19,6 +19,7 @@ jobs:
         run: |
           git config user.name doup2001
           git config user.email doup2001@gachon.ac.kr
+          git pull --rebase origin main
           git add -A .
           git commit -m "generated"
           git push
