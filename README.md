@@ -16,7 +16,7 @@
 - #### [이거해줘](https://github.com/GDGoC-Hackathon-2025/DoChange-BE.git)
   >  ###### GDGoC 백야 해커톤 출품작 | 2025.01 ~ 2025.01 (BE) 
 - #### [집터](https://github.com/ZipTe/ZipTe_BE.git) 
-  > ###### 나만의 부동산 플랫폼 | 2024.10 ~ (BE, 1인 프로젝트)
+  > ###### 나만의 부동산 플랫폼 | 2024.10 ~ (BE, PM)
 ---
 ## 🌱 Education & Experiences
 
