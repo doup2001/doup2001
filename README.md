@@ -22,13 +22,16 @@
     </a>
 </div>
 
-## 🧑🏻‍💻 Project  
+## 🧑🏻‍💻 Project
 - #### [가마고치 리팩토링](https://github.com/GC-Project-Space/SA_TEAM-4_back.git)
   > ###### 가천대학교 시스템 아키텍쳐 텀프로젝트 | 2024.10 ~ 2024.11 (CI/CD)
 - #### [이거해줘](https://github.com/GDGoC-Hackathon-2025/DoChange-BE.git)
   >  ###### GDGoC 백야 해커톤 출품작 | 2025.01 ~ 2025.01 (BE) 
 - #### [집터](https://github.com/ZipTe/ZipTe_BE.git) 
-  > ###### 나만의 부동산 플랫폼 | 2024.10 ~ (BE, PM)
+  > ###### 나만의 부동산 플랫폼 | 2025.03 ~ (BE, PM)
+- #### [딜리퍼스](https://github.com/GCU-Project-Space/Server.git)
+  > ###### 가천대학교 고급 웹 프로그래밍 텀프로젝트 | 2025.04 ~ 2025.06 (BE)
+
 ---
 ## 🌱 Education & Experiences
 
@@ -37,43 +40,17 @@
   >  Software *(2023.09 ~)*  
 
 - **GDG on Campus Gachon**  
-  > Backend Developer *(2024.09 ~)*
+  > Backend Developer *(2024.09 ~ 2025.06)*
 
 - **가천대학교 IT 학술 동아리 Leets 5기**
-  >  Backend Developer *(2025.03 ~)*
-
-### 📜 Certifications
-
-- **SQLD (SQL Developer)**  
-- **ADsP (Advanced Data Analytics Semi-Professional)**  
-
+  >  Backend Developer *(2025.03 ~2025.08)*
 
 ---
+## 📜 Certifications
 
-## 🔨 Stack  
-
-### BackEnd  
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
-<img src ="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-
-### DevOps  
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
-
-### FrontEnd  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-
-### Tools  
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
+- **정보처리기사** 
+- **SQLD (SQL Developer)** 
+- **ADsP (Advanced Data Analytics Semi-Professional)**
 
 ---
 
