@@ -27,8 +27,8 @@
   > ###### 가천대학교 시스템 아키텍쳐 텀프로젝트 | 2024.10 ~ 2024.11 (CI/CD)
 - #### [이거해줘](https://github.com/GDGoC-Hackathon-2025/DoChange-BE.git)
   >  ###### GDGoC 백야 해커톤 출품작 | 2025.01 ~ 2025.01 (BE) 
-- #### [집터](https://github.com/ZipTe/ZipTe_BE.git) 
-  > ###### 나만의 부동산 플랫폼 | 2025.03 ~ (BE, PM)
+- #### [집터](https://github.com/ZipTe/ZipTe_Platform_Hexagon.git) 
+  > ###### 나만의 부동산 플랫폼 | 2025.03 ~ (1인 개발)
 - #### [딜리퍼스](https://github.com/GCU-Project-Space/Server.git)
   > ###### 가천대학교 고급 웹 프로그래밍 텀프로젝트 | 2025.04 ~ 2025.06 (BE)
 
