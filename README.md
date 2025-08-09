@@ -23,15 +23,14 @@
 </div>
 
 ## 🧑🏻‍💻 Project
-- #### [가마고치 리팩토링](https://github.com/GC-Project-Space/SA_TEAM-4_back.git)
-  > ###### 가천대학교 시스템 아키텍쳐 텀프로젝트 | 2024.10 ~ 2024.11 (CI/CD)
-- #### [이거해줘](https://github.com/GDGoC-Hackathon-2025/DoChange-BE.git)
-  >  ###### GDGoC 백야 해커톤 출품작 | 2025.01 ~ 2025.01 (BE) 
+- #### [가마고치](https://github.com/GC-Project-Space/SA_TEAM-4_back.git)
+  > ###### 가천대학교 시스템 아키텍쳐 텀프로젝트 | 2024.10 ~ 2024.11 (무중단배포 및 CI/CD)
 - #### [집터](https://github.com/ZipTe/ZipTe_Platform_Hexagon.git) 
   > ###### 나만의 부동산 플랫폼 | 2025.03 ~ (1인 개발)
 - #### [딜리퍼스](https://github.com/GCU-Project-Space/Server.git)
   > ###### 가천대학교 고급 웹 프로그래밍 텀프로젝트 | 2025.04 ~ 2025.06 (BE)
-
+- #### [SEEAT](https://github.com/Leets-Official/SEEAT-BE)
+  > ###### 앉기 전에 먼저 봐봐! SEEAT🍿 | 2025.06 ~ 2025.08 (BE)
 ---
 ## 🌱 Education & Experiences
 
