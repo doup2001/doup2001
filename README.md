@@ -30,7 +30,7 @@
 - #### [딜리퍼스](https://github.com/GCU-Project-Space/Server.git)
   > ###### 가천대학교 고급 웹 프로그래밍 텀프로젝트 | 2025.04 ~ 2025.06 (BE)
 - #### [SEEAT](https://github.com/Leets-Official/SEEAT-BE)
-  > ###### 앉기 전에 먼저 봐봐! SEEAT🍿 | 2025.06 ~ 2025.08 (BE)
+  > ###### 앉기 전에 먼저 봐봐! SEEAT🍿 | 2025.06 ~ 2025.08 (BE / BE 파트장)
 ---
 ## 🌱 Education & Experiences
 
