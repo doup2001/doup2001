@@ -39,13 +39,13 @@
   >  Software *(2023.09 ~)*  
 
 - **GDG on Campus Gachon**  
-  > Backend Developer *(2024.09 ~ 2025.06)*
+  >  Backend Developer *(2024.09 ~ 2025.06)*
 
 - **가천대학교 IT 학술 동아리 Leets 5기**
   >  Backend Developer *(2025.03 ~ 2025.08)*
 
 - **카카오테크 부트캠프 3기**
-  > 클라우드 네이티브 *(2025.09 ~ 2026.03)*
+  >  Cloud Native *(2025.09 ~ 2026.03)*
 
 ---
 ## 📜 Certifications
