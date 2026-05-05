@@ -40,11 +40,11 @@
 
 ---
 ## 📜 Certifications
-
+-**CKA (Certified Kubernetes Administrator)**
+- **AWS SAA (Solutions Architect - Associate)**
 - **정보처리기사** 
 - **SQLD (SQL Developer)** 
 - **ADsP (Advanced Data Analytics Semi-Professional)**
-- **AWS SAA (Solutions Architect - Associate)**
 
 ---
 
