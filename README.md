@@ -40,7 +40,7 @@
 
 ---
 ## 📜 Certifications
--**CKA (Certified Kubernetes Administrator)**
+- **CKA (Certified Kubernetes Administrator)**
 - **AWS SAA (Solutions Architect - Associate)**
 - **정보처리기사** 
 - **SQLD (SQL Developer)** 
