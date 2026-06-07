@@ -7,7 +7,9 @@ I'm Doyeon Lee, a Software Engineer.
 
 ---
 ## ☀️ OpenSource Contribution
-* **ArgoCD-Image-Updater** [PR #1588](https://github.com/argoproj-labs/argocd-image-updater/pull/1588) - Align standalone webhook HTTP/2 hardening
+* **ArgoCD-Image-Updater**
+  >[PR #1588](https://github.com/argoproj-labs/argocd-image-updater/pull/1588)
+  > Align standalone webhook HTTP/2 hardening
 
 
 ---
