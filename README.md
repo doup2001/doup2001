@@ -2,8 +2,8 @@
 
 <div align="left">
 
-# 안녕하세요!  
-소프트웨어 엔지니어 이도연입니다.
+# Hello, World! 👋
+I'm Doyeon Lee, a Software Engineer.
 
 ---
 ## ☀️ OpenSource Contribution
@@ -11,29 +11,36 @@
 
 
 ---
-## 🌱 Education & Experiences
+## 💼 Work Experience
 
-- **Gachon University**  
-  >  Urban Planning *(2020.03 ~)*  
-  >  Software *(2023.09 ~)*  
+- **Bespin Global**  
+  > GenAI Engineer Intern *(Jun 2026 ~ Present)*  
+
+
+---
+## 🌱 Education & Activities
+
+- **Kakao Tech Bootcamp 3rd Cohort**
+  > Cloud Native Track *(Sep 2025 ~ Mar 2026)*
+
+- **Leets (Gachon Univ. IT Startup Club) 5th Cohort**
+  > Backend Developer *(Mar 2025 ~ Aug 2025)*
 
 - **GDG on Campus Gachon**  
-  >  Backend Developer *(2024.09 ~ 2025.06)*
+  > Backend Developer *(Sep 2024 ~ Jun 2025)*
 
-- **가천대학교 IT 창업 동아리 Leets 5기**
-  >  Backend Developer *(2025.03 ~ 2025.08)*
-
-- **카카오테크 부트캠프 3기**
-  >  Cloud Native *(2025.09 ~ 2026.03)*
+- **Gachon University**  
+  > Urban Planning *(Mar 2020 ~ Present)*  
+  > Software Engineering *(Sep 2023 ~ Present)*  
 
 
 ---
 ## 📜 Certifications
-- **CKA (Certified Kubernetes Administrator)**
-- **AWS SAA (Solutions Architect - Associate)**
-- **정보처리기사** 
-- **SQLD (SQL Developer)** 
-- **ADsP (Advanced Data Analytics Semi-Professional)**
+- **CKA (Certified Kubernetes Administrator)** - CNCF
+- **AWS SAA (AWS Certified Solutions Architect – Associate)** - AWS
+- **Engineer Information Processing** (정보처리기사) - HRDK
+- **SQLD (SQL Developer)** - KoData
+- **ADsP (Advanced Data Analytics Semi-Professional)** - KoData
 
 ---
 
