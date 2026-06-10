@@ -22,7 +22,7 @@ I'm Doyeon Lee, a Software Engineer.
 ---
 ## 🌱 Education & Activities
 
-- **Kakao Tech Bootcamp 3rd**
+- **Kakao Tech Bootcamp**
   > Cloud Native *(Sep 2025 ~ Mar 2026)*
 
 - **Leets (Gachon Univ. IT Startup Club) 5th**
