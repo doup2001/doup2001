@@ -7,6 +7,9 @@ I'm Doyeon Lee, a Software Engineer.
 
 ---
 ## ☀️ OpenSource Contribution
+* **Kubernetes**
+  >[PR #140210](https://github.com/kubernetes/kubernetes/pull/140210)
+  > Migrate ResourcePoolStatusRequest controller to contextual logging
 * **ArgoCD-Image-Updater**
   >[PR #1588](https://github.com/argoproj-labs/argocd-image-updater/pull/1588)
   > Align standalone webhook HTTP/2 hardening
