@@ -18,8 +18,9 @@ I'm Doyeon Lee, a Software Engineer.
 ---
 ## 💼 Work Experience
 
-- **Bespin Global**  
-  > GenAI Engineer Intern *(Jun 2026 ~ Present)*  
+- **Bespin Global**
+  > AI Infrastructure Engineer *(July 2026 ~ Present)*  
+  > GenAI Engineer Intern *(Jun 2026 ~ July 2026)*  
 
 
 ---
