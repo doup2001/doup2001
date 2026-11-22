@@ -42,6 +42,7 @@ I'm Doyeon Lee, a Software Engineer.
 
 ---
 ## 📜 Certifications
+- **CKS (Certified Kubernetes Specialist)** - CNCF
 - **CKA (Certified Kubernetes Administrator)** - CNCF
 - **AWS SAA (AWS Certified Solutions Architect – Associate)** - AWS
 - **Engineer Information Processing** (정보처리기사) - HRDK
